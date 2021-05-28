@@ -1,6 +1,6 @@
-### Hi there 👋
+# Hi there 👋
 
-# I'm Michael, a full-stack web developer with an interest in UX design, e-commerce, networking, hacking, and anything tech related!
+### I'm Michael, a full-stack web developer with an interest in UX design, e-commerce, networking, hacking, and anything tech related!
 
 ## Check out my GitHub pages [HERE](https://mikekamilos.github.io)
 

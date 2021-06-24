@@ -1,6 +1,6 @@
 # Hi there 👋
 
-### I'm Michael, a full-stack web developer with an interest in UX design, cloud-engineering, networking, hacking, etc. Anything tech related!
+### I'm Michael, a software engineer with experience in web development, ux design, and quality-assurance. I love all things tech related!
 
 ## Check out my GitHub pages [HERE](https://mikekamilos.github.io)
 

@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## I'm Michael, a front-end developer.
+## I'm Michael, a web developer.
 ### React pro | Next.js aficionado | AI enthusiast.
 
 ## Check out my Portfolio [HERE](https://mikam.dev)
